@@ -5,7 +5,7 @@ str2="abdulla"
 
 print(str1+str2)
 
-
+#uporerta noyto nicherta bebohar kora jey
 a="faraby"
 b="abdulla"
 c=(a+b)
