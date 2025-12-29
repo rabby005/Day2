@@ -23,7 +23,9 @@ strb="freesystem"
 strc=len(stra),len(strb)
 print(strc)
 
+
 #or "" use kore maje space dile tar length ber kora jay
+
 d="faraby"
 e="abdulla"
 f=(d+"   "+e)
