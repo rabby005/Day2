@@ -19,3 +19,11 @@ str6=len(str4)
 stra="fidora"
 strb="freesystem"
 strc=len(stra),len(strb)
+
+#or 
+d="faraby"
+e="abdulla"
+f=(d+""+e)
+
+print(f)
+print(len(f))
