@@ -11,3 +11,12 @@ b="abdulla"
 c=(a+b)
 
 print(c)
+
+
+#or
+
+d="faraby"
+e="abdulla"
+f=(d+e)
+
+print(f)
