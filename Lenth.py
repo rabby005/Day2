@@ -13,3 +13,8 @@ str3="fidora"
 str4="freesystem"
 str5=len(str3)
 str6=len(str4)
+
+
+stra="fidora"
+strb="freesystem"
+strc=len(stra),len(strb)
