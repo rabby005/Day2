@@ -23,7 +23,7 @@ strc=len(stra),len(strb)
 #or 
 d="faraby"
 e="abdulla"
-f=(d+""+e)
+f=(d+"   "+e)
 
 print(f)
 print(len(f))
