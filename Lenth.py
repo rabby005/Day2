@@ -4,3 +4,12 @@ str1="faraby"
 str2="farabyabdulla"
 print(len(str1))
 print(len(str2))
+
+
+
+#or 
+
+str3="fidora"
+str4="freesystem"
+str5=len(str3)
+str6=len(str4)
