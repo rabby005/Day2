@@ -14,6 +14,7 @@ str4="freesystem"
 str5=len(str3)
 str6=len(str4)
 
+#or
 
 stra="fidora"
 strb="freesystem"
