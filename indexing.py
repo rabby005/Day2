@@ -4,3 +4,9 @@
 
 #jara
 #0123
+
+#index number diye carecter access korte hoy
+
+name="faraby"
+chin=name[2]
+print(chin)
