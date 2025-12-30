@@ -12,3 +12,9 @@ print(name[1:3])
 #or
 str="faraby abdulla"
 print(str[3:len(str)])
+
+
+######
+str1 ="alian jabeed"
+print(str1[:4]) #[0:4]
+print(str1[5:]) #[5: len (str1)]
