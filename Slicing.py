@@ -3,3 +3,7 @@
 #starting idx is included
 
 
+name ="faraby"
+print(name[1:4])
+
+print(name[1:3])
