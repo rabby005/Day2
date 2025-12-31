@@ -11,3 +11,6 @@
 str = "I am a coder. I love to code."
 print(str.endswith("de"))
 print(str.endswith("de."))
+
+#false 
+print(str.endswith("ove"))
