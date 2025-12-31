@@ -27,7 +27,9 @@ name3=(name2.capitalize())
 print(name3)
 
 
-#replace
+#replace || chaile je kono word replace kora jay
 
 name4="My name is faraby abdulla all rabby, farabya in my nicknime ."
 print(name4.replace("a","o"))
+
+print(name4.replace("faraby","rabby"))
