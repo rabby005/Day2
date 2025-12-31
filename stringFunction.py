@@ -19,3 +19,9 @@ print(str.endswith("ove"))
 #capitalize
 name = "faraby"
 print(name.capitalize())
+print(name)
+
+#sob somoy  captalize  variable er value capatilize rakhte hole
+name2 = "faraby"
+name3=(name2.capitalize())
+print(name3)
