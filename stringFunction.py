@@ -8,3 +8,5 @@
 #str.count("am") #counts the occurrence of substr in string
 
 
+str = "I am a coder. I love to code."
+print(str.endswith("de"))
