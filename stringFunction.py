@@ -14,3 +14,8 @@ print(str.endswith("de."))
 
 #false 
 print(str.endswith("ove"))
+
+
+#capitalize
+name = "faraby"
+print(name.capitalize())
