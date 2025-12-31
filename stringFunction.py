@@ -25,3 +25,9 @@ print(name)
 name2 = "faraby"
 name3=(name2.capitalize())
 print(name3)
+
+
+#replace
+
+name4="My name is faraby abdulla all rabby, farabya in my nicknime ."
+print(name4.replace("a","o"))
