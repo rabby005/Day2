@@ -32,4 +32,5 @@ print(name3)
 name4="My name is faraby abdulla all rabby, farabya in my nicknime ."
 print(name4.replace("a","o"))
 
-print(name4.replace("faraby","rabby"))
+#eiline word replace kora hoyese
+print(name4.replace("faraby","rabby")) 
