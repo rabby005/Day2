@@ -19,6 +19,7 @@ print(str.endswith("de."))
 print(str.endswith("ove"))
 
 
+
 #capitalize
 name = "faraby"
 print(name.capitalize())
@@ -30,6 +31,8 @@ name3=(name2.capitalize())
 print(name3)
 
 
+
+
 #replace || chaile je kono word replace kora jay
 
 name4="My name is faraby abdulla all rabby, farabya in my nicknime ."
@@ -37,3 +40,8 @@ print(name4.replace("a","o"))
 
 #eiline word replace kora hoyese
 print(name4.replace("faraby","rabby")) 
+
+
+#
+name5="i am a good coder. i love to code. i code everyday."
+print(name5.find("o"))
