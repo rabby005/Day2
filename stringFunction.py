@@ -63,5 +63,10 @@ print(name7.find("Q"))
 
 
 #---------------------count-----------------
+
+#count er bitore ja deya hobe output asbe koto bar ase oi wordta .
 name7="i am a good coder. i love to code. i code everyday."
 print(name7.count("good"))
+
+name8="i am a good coder. i love to code. i code everyday."
+print(name8.count("am"))
