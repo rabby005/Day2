@@ -56,4 +56,6 @@ print(name5.find("o"))
 name6="i am a good coder. i love to code. i code everyday."
 print(name6.find("code"))
 
-#
+#emon kono kiso jodi find kori jeta nai ,tahole reasult asbe -1 .tar mane neita kono valid index na.
+name7="i am a good coder. i love to code. i code everyday."
+print(name7.find("Q"))
