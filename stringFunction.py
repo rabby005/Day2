@@ -45,3 +45,6 @@ print(name4.replace("faraby","rabby"))
 #
 name5="i am a good coder. i love to code. i code everyday."
 print(name5.find("o"))
+
+name6="i am a good coder. i love to code. i code everyday."
+print(name6.find("code"))
