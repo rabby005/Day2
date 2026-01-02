@@ -11,6 +11,9 @@
 #str.count("am")            counts the occurrence of substr in string
 
 
+
+#---------------------endwith-----------------
+
 str = "I am a coder. I love to code."
 print(str.endswith("de"))
 print(str.endswith("de."))
@@ -19,6 +22,7 @@ print(str.endswith("de."))
 print(str.endswith("ove"))
 
 
+#---------------------capitalize-----------------
 
 #capitalize
 name = "faraby"
@@ -31,7 +35,7 @@ name3=(name2.capitalize())
 print(name3)
 
 
-
+#---------------------replace-----------------
 
 #replace || chaile je kono word replace kora jay
 
@@ -42,9 +46,14 @@ print(name4.replace("a","o"))
 print(name4.replace("faraby","rabby")) 
 
 
-#
+#---------------------fine-----------------
+
+#find //je okhorta find korbe tar index number dekhabe 
 name5="i am a good coder. i love to code. i code everyday."
 print(name5.find("o"))
 
+#je word ta  find korbe tar prothom okhorer index number dekhabe 
 name6="i am a good coder. i love to code. i code everyday."
 print(name6.find("code"))
+
+#
