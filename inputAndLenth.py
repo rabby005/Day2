@@ -3,4 +3,4 @@ print("name length",len(name))
 
 
 age = input("enter your age here : ")
-print("age length",(age))
+print("age length",len(age))
