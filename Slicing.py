@@ -5,9 +5,9 @@
 
 name ="faraby"
 print(name[1:4])
-
 print(name[1:3])
-
+print(name[0:5])
+print(name[0:6])
 
 #or
 str="faraby abdulla"
