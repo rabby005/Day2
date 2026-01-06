@@ -32,3 +32,6 @@ f=(d+"   "+e)
 
 print(f)
 print(len(f))
+
+g="foysal"
+h="hossain"
