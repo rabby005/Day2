@@ -34,9 +34,9 @@ print(f)
 print(len(f))
 
 
-#
+#space k o count korbe length hisabe
 g="foysal"
 h="hossain"
-i=(g+" h  "+h)
+i=(g+"  h   "+h)
 
 print(len(i))
