@@ -8,6 +8,19 @@ elif(age1 <= 18):
     print("Dont drive")
 
 
+
+    
+#nij theke banano input idea niye
+
+age = int(input("Enter your age: "))
+
+if (age >= 18):
+    print("Can vote")
+elif(age <= 18):
+    print("Don't vote")
+
+
+
 #nije idea kore banano
 
 name = input("enter your name:")
@@ -20,12 +33,3 @@ if(name == "faraby"):
 elif( name != "faraby"):
     print("Welcome stranger")
     print("Not varify User")
-    
-#nij theke banano input idea niye
-
-# age = int(input("Enter your age: "))
-
-# if (age >= 18):
-#     print("Can vote")
-# elif(age <= 18):
-#     print("Don't vote")
