@@ -8,7 +8,7 @@ elif(age1 <= 18):
     print("Dont drive")
 
 
-#
+#nije idea kore banano
 
 name = input("enter your name:")
 
@@ -17,11 +17,10 @@ if(name == "faraby"):
     print("Your name faraby")
     print("Your age is 20")
     print("your city is Dhaka")
-elif( name ==! "faraby"):
+elif( name != "faraby"):
+    print("Welcome stranger")
+    print("Not varify User")
     
-
-
-
 #nij theke banano input idea niye
 
 # age = int(input("Enter your age: "))
