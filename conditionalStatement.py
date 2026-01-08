@@ -9,8 +9,9 @@ elif(age1 <= 18):
 
 
 
+
     
-#nij theke banano input idea niye
+# 1 nij theke banano input idea niye
 
 age = int(input("Enter your age: "))
 
@@ -21,7 +22,7 @@ elif(age <= 18):
 
 
 
-#nije idea kore banano
+# 2 nije idea kore banano
 
 name = input("enter your name:")
 
