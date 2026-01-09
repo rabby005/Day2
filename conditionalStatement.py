@@ -1,7 +1,6 @@
 # if diye start hobe
 # elif hove or 
-#else diye hobe
-#
+# else diye ses hobe
 
 
 
