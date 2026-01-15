@@ -4,8 +4,6 @@
 
 
 
-
-
 #
 age1 =16
 
@@ -35,6 +33,14 @@ name = input("enter your name:")
 
 if(name == "faraby"):
     print("Welcome faraby")
+    print("Your name faraby")
+    print("Your age is 20")
+    print("your city is Dhaka")
+elif( name != "faraby"):
+    print("Welcome stranger")
+    print("Not varify User")
+elif(name == "rofiq"):
+    print("Welcome Rofiq")
     print("Your name faraby")
     print("Your age is 20")
     print("your city is Dhaka")
