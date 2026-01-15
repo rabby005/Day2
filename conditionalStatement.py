@@ -41,9 +41,9 @@ elif( name != "faraby"):
     print("Not varify User")
 elif(name == "rofiq"):
     print("Welcome Rofiq")
-    print("Your name faraby")
-    print("Your age is 20")
-    print("your city is Dhaka")
-elif( name != "faraby"):
+    print("Your name Rofiq")
+    print("Your age is 29")
+    print("your city is Comilla")
+elif( name != "Rofiq"):
     print("Welcome stranger")
     print("Not varify User")
