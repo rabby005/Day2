@@ -42,7 +42,7 @@ elif( name != "faraby"):
 elif(name == "rofiq"):
     print("Welcome Rofiq")
     print("Your name Rofiq")
-    print("Your age is 29")
+    print("Your age is 330")
     print("your city is Comilla")
 elif( name != "Rofiq"):
     print("Welcome stranger")
