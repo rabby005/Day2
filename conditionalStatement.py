@@ -47,3 +47,11 @@ elif(name == "Rofiq"):
 elif( name != "Rofiq"):
     print("Welcome stranger")
     print("Not varify User")
+    
+    
+    
+    
+    light ="green"
+    
+    if(light == "red"):
+        print("Stop")
