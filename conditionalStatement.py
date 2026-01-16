@@ -57,3 +57,5 @@ elif( name != "Rofiq"):
         print("Stop")
     if(light == "yellow"):
         print("Ready")
+    if(light == "green"):
+        print("Go")
