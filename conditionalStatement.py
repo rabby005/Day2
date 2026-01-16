@@ -49,14 +49,12 @@ elif( name != "Rofiq"):
     print("Not varify User")
     
     
+# 3 nije idea kore banano
+light = input("Enter the traffic light color: ")
 
-
-
-    light = input("Enter the traffic light color: ")
-
-    if(light == "red"):
+if(light == "red"):
         print("Stop")
-    if(light == "yellow"):
+if(light == "yellow"):
         print("Ready")
-    if(light == "green"):
+if(light == "green"):
         print("Go")
