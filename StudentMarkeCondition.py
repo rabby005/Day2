@@ -23,7 +23,7 @@ elif(mark < 50 and mark >= 40):
     
     
     
-    # 
+    # input niye ki kore kora hoy
 
 mark = (int(input("Enter your mark: ")))
 
