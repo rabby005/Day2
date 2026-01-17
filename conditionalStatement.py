@@ -39,7 +39,8 @@ if(name == "faraby"):
 elif( name != "faraby"):
     print("Welcome stranger")
     print("Not varify User")
-elif(name == "Rofiq"):
+    
+if(name == "Rofiq"):
     print("Welcome Rofiq")
     print("Your name Rofiq")
     print("Your age is 330")
