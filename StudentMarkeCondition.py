@@ -16,5 +16,6 @@ elif(mark < 80 and mark >= 70):
     print("Grade C")
 elif(mark < 70):
     print("Grade D")
-
+elif(mark < 60):
+    print("Grade F")
 
