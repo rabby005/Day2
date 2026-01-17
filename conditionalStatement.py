@@ -61,3 +61,18 @@ if(light == "green"):
         print("Go")
 elif (light == "pink"):
     print("light is broken")
+    
+    
+light = input("Enter the traffic light color: ")
+
+if(light == "red"):
+        print("Stop")
+if(light == "yellow"):
+        print("Ready")
+if(light == "green"):
+        print("Go")
+if (light != "red" and light != "yellow" and light != "green" and light != "pink"):
+        print("Invalid color")
+elif (light == "pink"):
+    print("light is broken")
+    
