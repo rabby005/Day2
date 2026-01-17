@@ -50,7 +50,7 @@ elif( name != "Rofiq"):
     print("Not varify User")
                                                 # tab deyake bola hoy indentation
     
-# 3 nije idea kore banano
+# 3 
 light = input("Enter the traffic light color: ")
 
 if(light == "red"):
@@ -62,7 +62,7 @@ if(light == "green"):
 elif (light == "pink"):
     print("light is broken")
     
-    
+# laster iff nij thke add kora
 light = input("Enter the traffic light color: ")
 
 if(light == "red"):
