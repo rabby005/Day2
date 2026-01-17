@@ -48,7 +48,7 @@ if(name == "Rofiq"):
 elif( name != "Rofiq"):
     print("Welcome stranger")
     print("Not varify User")
-    
+                                                # tab deyake bola hoy indentation
     
 # 3 nije idea kore banano
 light = input("Enter the traffic light color: ")
