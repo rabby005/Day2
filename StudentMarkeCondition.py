@@ -6,7 +6,7 @@
 # 70 > marks, grade = "D"
 
 
-mark = (int(input("Enter your mark: ")))
+mark = "45"
 
 if(mark >= 90):
     print("Grade A")
@@ -23,7 +23,8 @@ elif(mark < 50 and mark >= 40):
     
     
     
-    # input niye ki kore kora hoy
+ 
+# input niye ki kore kora hoy
 
 mark = (int(input("Enter your mark: ")))
 
