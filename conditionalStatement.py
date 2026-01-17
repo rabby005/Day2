@@ -58,3 +58,5 @@ if(light == "yellow"):
         print("Ready")
 if(light == "green"):
         print("Go")
+elif (light == "pink"):
+    print("light is broken")
