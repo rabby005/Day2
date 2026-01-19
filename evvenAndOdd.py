@@ -6,7 +6,7 @@ else:
     print("this is odd number.")
 
 
-
+# User input
 
 num = int(input("Enter a number: "))
 
