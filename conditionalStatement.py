@@ -67,7 +67,7 @@ light = input("Enter the traffic light color: ")
 
 if(light == "red"):
         print("Stop")
-if(light == "yellow"):
+if(light == "Yellow"):
         print("Ready")
 if(light == "green"):
         print("Go")
