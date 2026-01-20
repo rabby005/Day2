@@ -17,6 +17,6 @@ print(c)
 
 d="faraby"
 e="abdulla"
-f=(d+" "+e)
+f=(d+""+e)
 
 print(f)
