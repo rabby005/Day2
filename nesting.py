@@ -5,6 +5,6 @@ if(age >= 18):
     if(age >= 21):
         print("You are eligible for retirement benefits.")
 else:
-  print("You are not able to car drive.")
+  print("You are kid and not able to all benifits.")
   
 #   eitatke nestet vola hoy tar karon holo if er bitore if use kora hoyeche,chaile amra onek golo eivabe set korte pari.
