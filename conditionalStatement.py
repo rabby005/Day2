@@ -71,8 +71,8 @@ if(light == "Yellow"):
         print("Ready")
 if(light == "green"):
         print("Go")
-if (light != "red" and light != "yellow" and light != "green" and light != "pink"):
-        print("Invalid color")
+# if (light != "red" and light != "yellow" and light != "green" and light != "pink"):
+#         print("Invalid color")
 elif (light == "pink"):
     print("light is broken")
     
