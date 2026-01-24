@@ -1,7 +1,7 @@
 nam = 20
 
 if(nam % 2 == 0):
-    print("this is  ")
+    print("this is even ")
 else:
     print("this is odd number.")
 
