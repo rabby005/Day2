@@ -13,6 +13,6 @@ num = int(input("Enter a number: "))
 if(num % 2 == 0):
     print("this is even number.")
 else:
-    print("")
+    print("this  ")
     
 # 52 minutes video
